@@ -15,7 +15,8 @@ public class JavaApplication1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // version 1
+        // version 2
+        System.out.println("Version 2 by member1");
         System.out.println("Hello welcome to agile");
     }
     
