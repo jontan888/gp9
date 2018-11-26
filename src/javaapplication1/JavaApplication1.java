@@ -15,9 +15,9 @@ public class JavaApplication1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // version 4
-        System.out.println("Version 4 by member1 for add event ");
-        System.out.println(" integration of github with pivotal tracker");
+        // version 5
+        System.out.println("Final Version  by member1 for add event ");
+        System.out.println(" integration of github with pivotal tracker and travis-ci");
         System.out.println("Hello welcome to agile");
     }
     
