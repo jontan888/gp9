@@ -16,7 +16,7 @@ public class JavaApplication1 {
      */
     public static void main(String[] args) {
         // version 5
-        System.out.println("Final Version  by member1 for add event ");
+        System.out.println("version 5 by member1 for add event ");
         System.out.println(" integration of github with pivotal tracker and travis-ci");
         System.out.println("Hello welcome to agile");
     }
